@@ -1,24 +1,50 @@
 {
-    "manifest": "arweave/paths",
-    "version": "0.1.0",
-    "index": {
-        "path": "index.html"
-    },
-    "paths": {
-        "assets/index-2d38ec36.css": {
-            "id": "8wJreAxwXH2kclzALAZCPtG5s5DedGijUK_bGib9E5c"
+    "created": [
+        {
+            "type": "file",
+            "entityName": "DriveManifest.json",
+            "entityId": "aeef9431-90d9-4516-9faf-c6d7eb5f971b",
+            "dataTxId": "_pA4jQdQHORJfniLu_llOHDWVQ3d_PiljYAsMfQRkS4",
+            "metadataTxId": "JpM4EbzPfmuG6LN3P8pQ7Kv6sJRJdTjEywCeI_rLl6M",
+            "bundledIn": "R-811jT5OZHXtcTcllQDiKxAqoAR4OZidYj7E-X3KsA"
         },
-        "assets/index-5ebe1771.js": {
-            "id": "F2Tb_1Szjd47vdEZU8y2c9o1wo2C6nHglukgVY6kIgg"
-        },
-        "assets/loader-403e3f83.svg": {
-            "id": "oPRk0cpsGe-hoTfAduYAto1cqKQoiHGuhAfSUR-hSOY"
-        },
-        "index.html": {
-            "id": "3mcqjQhPLBgJy2mCtv9rqeA-vwKU-lJwp25jnlsCXKY"
-        },
-        "vite.svg": {
-            "id": "2SFpKDJkoizVKGpRsHm-aAAZvBCF04W5SapIRZcRcLI"
+        {
+            "type": "bundle",
+            "bundleTxId": "R-811jT5OZHXtcTcllQDiKxAqoAR4OZidYj7E-X3KsA"
         }
-    }
+    ],
+    "tips": [],
+    "fees": {},
+    "manifest": {
+        "manifest": "arweave/paths",
+        "version": "0.1.0",
+        "index": {
+            "path": "./assets/index-2d38ec36.css"
+        },
+        "paths": {
+            "./assets/index-2d38ec36.css": {
+                "id": "wiNNS7gdEHYy4oYz1i2hnTq9nishvtQCb0jrWYxuHI0"
+            },
+            "./assets/index-5ebe1771.js": {
+                "id": "S93yrvIj0nrbBKa50IjVnGS0y1NT0tacGauANAU8CwA"
+            },
+            "./assets/loader-403e3f83.svg": {
+                "id": "6cp_H_Ku2RmHFu-gzfRCOA0xvni0cgspitxd3J2gLs0"
+            },
+            "./index.html": {
+                "id": "4lzirP1v6Uw1UuM68P3gOAeZdGpCwZOfAi9GHVHBGIg"
+            },
+            "./vite.svg": {
+                "id": "J7jZcyR6rEzz1MVAZANb5qGu2zcuILXsSv3mEopYyHQ"
+            }
+        }
+    },
+    "links": [
+        "https://arweave.net/_pA4jQdQHORJfniLu_llOHDWVQ3d_PiljYAsMfQRkS4",
+        "https://arweave.net/_pA4jQdQHORJfniLu_llOHDWVQ3d_PiljYAsMfQRkS4/./assets/index-2d38ec36.css",
+        "https://arweave.net/_pA4jQdQHORJfniLu_llOHDWVQ3d_PiljYAsMfQRkS4/./assets/index-5ebe1771.js",
+        "https://arweave.net/_pA4jQdQHORJfniLu_llOHDWVQ3d_PiljYAsMfQRkS4/./assets/loader-403e3f83.svg",
+        "https://arweave.net/_pA4jQdQHORJfniLu_llOHDWVQ3d_PiljYAsMfQRkS4/./index.html",
+        "https://arweave.net/_pA4jQdQHORJfniLu_llOHDWVQ3d_PiljYAsMfQRkS4/./vite.svg"
+    ]
 }

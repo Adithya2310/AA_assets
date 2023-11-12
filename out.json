@@ -1,0 +1,25 @@
+{
+    "created": [
+        {
+            "type": "file",
+            "entityName": "manifest.json",
+            "entityId": "88f62f48-a999-491b-bd71-bb0eddee858a",
+            "dataTxId": "ggFZ0b6Fcx_4D9QHzP5msmFF1xv3HiR3sjiCpO3PdjQ",
+            "metadataTxId": "JjTVn_Lfx6NXyIa91bo03q9oJYp9V1CTKF_6F0HBIGM",
+            "bundledIn": "D330yzhVeSkqjatMu3fWewF55Uu3x-YthnsF4SK8rJI",
+            "sourceUri": "file:///workspaces/codespaces-blank/Arweave/atomic_assets/ar-app/dist/manifest.json",
+            "dataCaches": [
+                "arweave.net"
+            ],
+            "fastFinalityIndexes": [
+                "arweave.net"
+            ]
+        },
+        {
+            "type": "bundle",
+            "bundleTxId": "D330yzhVeSkqjatMu3fWewF55Uu3x-YthnsF4SK8rJI"
+        }
+    ],
+    "tips": [],
+    "fees": {}
+}
