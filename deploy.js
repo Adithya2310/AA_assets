@@ -1,13 +1,13 @@
 import fs from 'fs'
 import dotenv from 'dotenv'
 import { execSync } from 'child_process';
-// import { WarpFactory, defaultCacheOptions } from "warp-contracts";
+import { WarpFactory, defaultCacheOptions } from "warp-contracts";
 // import Arweave from "arweave";
 
 dotenv.config();
 
-// const ANT = "bLAgYxAdX2Ry-nt6aH2ixgvJXbpsEYm28NgJgyqfs-U"
-// const SUBDOMAIN = "AdithyaNG"
+const ANT = "bLAgYxAdX2Ry-nt6aH2ixgvJXbpsEYm28NgJgyqfs-U"
+const SUBDOMAIN = "AdithyaNG"
 
 // const jwk = JSON.parse(Buffer.from(process.env.WALLET64, "base64").toString("utf-8"));
 // // console.log(jwk)
